@@ -7,3 +7,5 @@ This code is derived from https://skoolkid.gitlab.io/manicminer/ and the project
 Similar project exists in a binary form and supports only B/W graphics. This was coded by OldComp.cz user Stamil and is available https://www.oldcomp.cz/viewtopic.php?f=48&t=7515
 
 The current version of this particular port is not finished yet, but it's ultimate goal is to make the game more playable, enjoyable and colorful.
+
+The code uses Z80 assembly mnemonics as per original disassembly project of Manic Miner and it's compilable by Pasmo assembler with `-8` flag to enable i8080 compatibility warnings.
